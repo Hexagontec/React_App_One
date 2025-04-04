@@ -1,0 +1,7 @@
+.scroll_container_1 {
+    height: 800px;
+    overflow-y: auto;
+}
+.card_margin_bottom {
+    margin-bottom: -20px;
+}
